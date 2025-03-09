@@ -1,4 +1,4 @@
-This project creates a chatbot to read an interact with a dataframe using Streamlit. 
+This project creates a chatbot to read and interact with a dataframe using Streamlit. 
 It requires a local LLM, which can be downloaded using OLLAMA (https://ollama.com/download)
 
 Once OLLAMA is downloaded, you need to pull an LLM you want to use along with selecting the number of parameters depending on device memory.
