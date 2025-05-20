@@ -71,7 +71,7 @@ if user_prompt:
     )
 
     messages = [
-        {"role": "system", "content": "You are an helpful assistent."},
+        {"role": "system", "content": "You are an helpful assistant."},
         *st.session_state.chat_history,
     ]
 
