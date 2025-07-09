@@ -1,4 +1,12 @@
-This project creates a chatbot to read and interact with a dataframe using Streamlit. 
+# Overview:
+Analysing large dataframes manually in Excel or pandas requires technical expertise, slowing down insights for non-technical users.
+
+Therefore, here is an AI-powered chatbot that allows users to interact with uploaded dataframes conversationally to:
+- Ask natural language questions about data
+- Automate exploratory data analysis and querying
+- Increase accessibility of data insights for analysts and business users
+
+
 It requires a local LLM, which can be downloaded using OLLAMA (https://ollama.com/download)
 
 Once OLLAMA is downloaded, you need to pull an LLM you want to use along with selecting the number of parameters depending on device memory.
